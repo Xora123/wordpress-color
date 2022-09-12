@@ -1,0 +1,470 @@
+[12-Sep-2022 08:57:08 UTC] PHP Warning:  include(01-basic-esnext/index.php): failed to open stream: No such file or directory in /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-content/plugins/gutenberg-examples-zip/index.php on line 16
+[12-Sep-2022 08:57:08 UTC] PHP Stack trace:
+[12-Sep-2022 08:57:08 UTC] PHP   1. {main}() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/admin-ajax.php:0
+[12-Sep-2022 08:57:08 UTC] PHP   2. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/admin-ajax.php:22
+[12-Sep-2022 08:57:08 UTC] PHP   3. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-load.php:50
+[12-Sep-2022 08:57:08 UTC] PHP   4. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-config.php:77
+[12-Sep-2022 08:57:08 UTC] PHP   5. include_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-settings.php:428
+[12-Sep-2022 08:57:08 UTC] PHP Warning:  include(): Failed opening '01-basic-esnext/index.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-content/plugins/gutenberg-examples-zip/index.php on line 16
+[12-Sep-2022 08:57:08 UTC] PHP Stack trace:
+[12-Sep-2022 08:57:08 UTC] PHP   1. {main}() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/admin-ajax.php:0
+[12-Sep-2022 08:57:08 UTC] PHP   2. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/admin-ajax.php:22
+[12-Sep-2022 08:57:08 UTC] PHP   3. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-load.php:50
+[12-Sep-2022 08:57:08 UTC] PHP   4. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-config.php:77
+[12-Sep-2022 08:57:08 UTC] PHP   5. include_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-settings.php:428
+[12-Sep-2022 08:57:12 UTC] PHP Warning:  include(01-basic/index.php): failed to open stream: No such file or directory in /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-content/plugins/gutenberg-examples-zip/index.php on line 15
+[12-Sep-2022 08:57:12 UTC] PHP Stack trace:
+[12-Sep-2022 08:57:12 UTC] PHP   1. {main}() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/edit.php:0
+[12-Sep-2022 08:57:12 UTC] PHP   2. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/edit.php:10
+[12-Sep-2022 08:57:12 UTC] PHP   3. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/admin.php:34
+[12-Sep-2022 08:57:12 UTC] PHP   4. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-load.php:50
+[12-Sep-2022 08:57:12 UTC] PHP   5. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-config.php:77
+[12-Sep-2022 08:57:12 UTC] PHP   6. include_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-settings.php:428
+[12-Sep-2022 08:57:12 UTC] PHP Warning:  include(): Failed opening '01-basic/index.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-content/plugins/gutenberg-examples-zip/index.php on line 15
+[12-Sep-2022 08:57:12 UTC] PHP Stack trace:
+[12-Sep-2022 08:57:12 UTC] PHP   1. {main}() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/edit.php:0
+[12-Sep-2022 08:57:12 UTC] PHP   2. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/edit.php:10
+[12-Sep-2022 08:57:12 UTC] PHP   3. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/admin.php:34
+[12-Sep-2022 08:57:12 UTC] PHP   4. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-load.php:50
+[12-Sep-2022 08:57:12 UTC] PHP   5. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-config.php:77
+[12-Sep-2022 08:57:12 UTC] PHP   6. include_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-settings.php:428
+[12-Sep-2022 08:57:12 UTC] PHP Warning:  include(01-basic-esnext/index.php): failed to open stream: No such file or directory in /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-content/plugins/gutenberg-examples-zip/index.php on line 16
+[12-Sep-2022 08:57:12 UTC] PHP Stack trace:
+[12-Sep-2022 08:57:12 UTC] PHP   1. {main}() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/edit.php:0
+[12-Sep-2022 08:57:12 UTC] PHP   2. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/edit.php:10
+[12-Sep-2022 08:57:12 UTC] PHP   3. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/admin.php:34
+[12-Sep-2022 08:57:12 UTC] PHP   4. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-load.php:50
+[12-Sep-2022 08:57:12 UTC] PHP   5. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-config.php:77
+[12-Sep-2022 08:57:12 UTC] PHP   6. include_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-settings.php:428
+[12-Sep-2022 08:57:12 UTC] PHP Warning:  include(): Failed opening '01-basic-esnext/index.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-content/plugins/gutenberg-examples-zip/index.php on line 16
+[12-Sep-2022 08:57:12 UTC] PHP Stack trace:
+[12-Sep-2022 08:57:12 UTC] PHP   1. {main}() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/edit.php:0
+[12-Sep-2022 08:57:12 UTC] PHP   2. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/edit.php:10
+[12-Sep-2022 08:57:12 UTC] PHP   3. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/admin.php:34
+[12-Sep-2022 08:57:12 UTC] PHP   4. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-load.php:50
+[12-Sep-2022 08:57:12 UTC] PHP   5. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-config.php:77
+[12-Sep-2022 08:57:12 UTC] PHP   6. include_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-settings.php:428
+[12-Sep-2022 08:57:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-content/plugins/gutenberg-examples-zip/index.php:15) in /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/includes/misc.php on line 1381
+[12-Sep-2022 08:57:12 UTC] PHP Stack trace:
+[12-Sep-2022 08:57:12 UTC] PHP   1. {main}() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/edit.php:0
+[12-Sep-2022 08:57:12 UTC] PHP   2. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/edit.php:10
+[12-Sep-2022 08:57:12 UTC] PHP   3. do_action($hook_name = 'admin_init') /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/admin.php:175
+[12-Sep-2022 08:57:12 UTC] PHP   4. WP_Hook->do_action($args = [0 => '']) /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-includes/plugin.php:476
+[12-Sep-2022 08:57:12 UTC] PHP   5. WP_Hook->apply_filters($value = '', $args = [0 => '']) /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-includes/class-wp-hook.php:331
+[12-Sep-2022 08:57:12 UTC] PHP   6. wp_admin_headers('') /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-includes/class-wp-hook.php:307
+[12-Sep-2022 08:57:12 UTC] PHP   7. header($header = 'Referrer-Policy: strict-origin-when-cross-origin') /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/includes/misc.php:1381
+[12-Sep-2022 08:57:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-content/plugins/gutenberg-examples-zip/index.php:15) in /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-includes/functions.php on line 6878
+[12-Sep-2022 08:57:12 UTC] PHP Stack trace:
+[12-Sep-2022 08:57:12 UTC] PHP   1. {main}() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/edit.php:0
+[12-Sep-2022 08:57:12 UTC] PHP   2. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/edit.php:10
+[12-Sep-2022 08:57:12 UTC] PHP   3. do_action($hook_name = 'admin_init') /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/admin.php:175
+[12-Sep-2022 08:57:12 UTC] PHP   4. WP_Hook->do_action($args = [0 => '']) /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-includes/plugin.php:476
+[12-Sep-2022 08:57:12 UTC] PHP   5. WP_Hook->apply_filters($value = '', $args = [0 => '']) /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-includes/class-wp-hook.php:331
+[12-Sep-2022 08:57:12 UTC] PHP   6. send_frame_options_header() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-includes/class-wp-hook.php:305
+[12-Sep-2022 08:57:12 UTC] PHP   7. header($header = 'X-Frame-Options: SAMEORIGIN') /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-includes/functions.php:6878
+[12-Sep-2022 08:57:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-content/plugins/gutenberg-examples-zip/index.php:15) in /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/admin-header.php on line 9
+[12-Sep-2022 08:57:12 UTC] PHP Stack trace:
+[12-Sep-2022 08:57:12 UTC] PHP   1. {main}() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/edit.php:0
+[12-Sep-2022 08:57:12 UTC] PHP   2. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/edit.php:397
+[12-Sep-2022 08:57:12 UTC] PHP   3. header($header = 'Content-Type: text/html; charset=UTF-8') /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/admin-header.php:9
+[12-Sep-2022 08:57:13 UTC] PHP Warning:  include(/home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-content/plugins/gutenberg-examples-zip/01-basic/index.php): failed to open stream: No such file or directory in /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-content/plugins/gutenberg-examples-zip/index.php on line 15
+[12-Sep-2022 08:57:13 UTC] PHP Stack trace:
+[12-Sep-2022 08:57:13 UTC] PHP   1. {main}() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/admin-ajax.php:0
+[12-Sep-2022 08:57:13 UTC] PHP   2. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/admin-ajax.php:22
+[12-Sep-2022 08:57:13 UTC] PHP   3. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-load.php:50
+[12-Sep-2022 08:57:13 UTC] PHP   4. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-config.php:77
+[12-Sep-2022 08:57:13 UTC] PHP   5. include_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-settings.php:428
+[12-Sep-2022 08:57:13 UTC] PHP Warning:  include(): Failed opening '01-basic/index.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-content/plugins/gutenberg-examples-zip/index.php on line 15
+[12-Sep-2022 08:57:13 UTC] PHP Stack trace:
+[12-Sep-2022 08:57:13 UTC] PHP   1. {main}() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/admin-ajax.php:0
+[12-Sep-2022 08:57:13 UTC] PHP   2. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/admin-ajax.php:22
+[12-Sep-2022 08:57:13 UTC] PHP   3. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-load.php:50
+[12-Sep-2022 08:57:13 UTC] PHP   4. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-config.php:77
+[12-Sep-2022 08:57:13 UTC] PHP   5. include_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-settings.php:428
+[12-Sep-2022 08:57:13 UTC] PHP Warning:  include(01-basic-esnext/index.php): failed to open stream: No such file or directory in /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-content/plugins/gutenberg-examples-zip/index.php on line 16
+[12-Sep-2022 08:57:13 UTC] PHP Stack trace:
+[12-Sep-2022 08:57:13 UTC] PHP   1. {main}() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/admin-ajax.php:0
+[12-Sep-2022 08:57:13 UTC] PHP   2. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/admin-ajax.php:22
+[12-Sep-2022 08:57:13 UTC] PHP   3. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-load.php:50
+[12-Sep-2022 08:57:13 UTC] PHP   4. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-config.php:77
+[12-Sep-2022 08:57:13 UTC] PHP   5. include_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-settings.php:428
+[12-Sep-2022 08:57:13 UTC] PHP Warning:  include(): Failed opening '01-basic-esnext/index.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-content/plugins/gutenberg-examples-zip/index.php on line 16
+[12-Sep-2022 08:57:13 UTC] PHP Stack trace:
+[12-Sep-2022 08:57:13 UTC] PHP   1. {main}() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/admin-ajax.php:0
+[12-Sep-2022 08:57:13 UTC] PHP   2. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/admin-ajax.php:22
+[12-Sep-2022 08:57:13 UTC] PHP   3. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-load.php:50
+[12-Sep-2022 08:57:13 UTC] PHP   4. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-config.php:77
+[12-Sep-2022 08:57:13 UTC] PHP   5. include_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-settings.php:428
+[12-Sep-2022 08:57:28 UTC] PHP Warning:  include(01-basic/index.php): failed to open stream: No such file or directory in /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-content/plugins/gutenberg-examples-zip/index.php on line 15
+[12-Sep-2022 08:57:28 UTC] PHP Stack trace:
+[12-Sep-2022 08:57:28 UTC] PHP   1. {main}() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/admin-ajax.php:0
+[12-Sep-2022 08:57:28 UTC] PHP   2. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/admin-ajax.php:22
+[12-Sep-2022 08:57:28 UTC] PHP   3. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-load.php:50
+[12-Sep-2022 08:57:28 UTC] PHP   4. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-config.php:77
+[12-Sep-2022 08:57:28 UTC] PHP   5. include_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-settings.php:428
+[12-Sep-2022 08:57:28 UTC] PHP Warning:  include(): Failed opening '01-basic/index.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-content/plugins/gutenberg-examples-zip/index.php on line 15
+[12-Sep-2022 08:57:28 UTC] PHP Stack trace:
+[12-Sep-2022 08:57:28 UTC] PHP   1. {main}() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/admin-ajax.php:0
+[12-Sep-2022 08:57:28 UTC] PHP   2. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/admin-ajax.php:22
+[12-Sep-2022 08:57:28 UTC] PHP   3. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-load.php:50
+[12-Sep-2022 08:57:28 UTC] PHP   4. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-config.php:77
+[12-Sep-2022 08:57:28 UTC] PHP   5. include_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-settings.php:428
+[12-Sep-2022 08:57:28 UTC] PHP Warning:  include(01-basic-esnext/index.php): failed to open stream: No such file or directory in /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-content/plugins/gutenberg-examples-zip/index.php on line 16
+[12-Sep-2022 08:57:28 UTC] PHP Stack trace:
+[12-Sep-2022 08:57:28 UTC] PHP   1. {main}() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/admin-ajax.php:0
+[12-Sep-2022 08:57:28 UTC] PHP   2. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/admin-ajax.php:22
+[12-Sep-2022 08:57:28 UTC] PHP   3. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-load.php:50
+[12-Sep-2022 08:57:28 UTC] PHP   4. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-config.php:77
+[12-Sep-2022 08:57:28 UTC] PHP   5. include_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-settings.php:428
+[12-Sep-2022 08:57:28 UTC] PHP Warning:  include(): Failed opening '01-basic-esnext/index.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-content/plugins/gutenberg-examples-zip/index.php on line 16
+[12-Sep-2022 08:57:28 UTC] PHP Stack trace:
+[12-Sep-2022 08:57:28 UTC] PHP   1. {main}() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/admin-ajax.php:0
+[12-Sep-2022 08:57:28 UTC] PHP   2. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/admin-ajax.php:22
+[12-Sep-2022 08:57:28 UTC] PHP   3. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-load.php:50
+[12-Sep-2022 08:57:28 UTC] PHP   4. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-config.php:77
+[12-Sep-2022 08:57:28 UTC] PHP   5. include_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-settings.php:428
+[12-Sep-2022 08:57:46 UTC] PHP Warning:  include(/home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-content/plugins/gutenberg-examples-zip/01-basic/index.php): failed to open stream: No such file or directory in /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-content/plugins/gutenberg-examples-zip/index.php on line 15
+[12-Sep-2022 08:57:46 UTC] PHP Stack trace:
+[12-Sep-2022 08:57:46 UTC] PHP   1. {main}() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/admin-ajax.php:0
+[12-Sep-2022 08:57:46 UTC] PHP   2. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/admin-ajax.php:22
+[12-Sep-2022 08:57:46 UTC] PHP   3. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-load.php:50
+[12-Sep-2022 08:57:46 UTC] PHP   4. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-config.php:77
+[12-Sep-2022 08:57:46 UTC] PHP   5. include_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-settings.php:428
+[12-Sep-2022 08:57:46 UTC] PHP Warning:  include(): Failed opening '01-basic/index.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-content/plugins/gutenberg-examples-zip/index.php on line 15
+[12-Sep-2022 08:57:46 UTC] PHP Stack trace:
+[12-Sep-2022 08:57:46 UTC] PHP   1. {main}() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/admin-ajax.php:0
+[12-Sep-2022 08:57:46 UTC] PHP   2. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/admin-ajax.php:22
+[12-Sep-2022 08:57:46 UTC] PHP   3. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-load.php:50
+[12-Sep-2022 08:57:46 UTC] PHP   4. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-config.php:77
+[12-Sep-2022 08:57:46 UTC] PHP   5. include_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-settings.php:428
+[12-Sep-2022 08:57:46 UTC] PHP Warning:  include(01-basic-esnext/index.php): failed to open stream: No such file or directory in /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-content/plugins/gutenberg-examples-zip/index.php on line 16
+[12-Sep-2022 08:57:46 UTC] PHP Stack trace:
+[12-Sep-2022 08:57:46 UTC] PHP   1. {main}() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/admin-ajax.php:0
+[12-Sep-2022 08:57:46 UTC] PHP   2. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/admin-ajax.php:22
+[12-Sep-2022 08:57:46 UTC] PHP   3. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-load.php:50
+[12-Sep-2022 08:57:46 UTC] PHP   4. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-config.php:77
+[12-Sep-2022 08:57:46 UTC] PHP   5. include_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-settings.php:428
+[12-Sep-2022 08:57:46 UTC] PHP Warning:  include(): Failed opening '01-basic-esnext/index.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-content/plugins/gutenberg-examples-zip/index.php on line 16
+[12-Sep-2022 08:57:46 UTC] PHP Stack trace:
+[12-Sep-2022 08:57:46 UTC] PHP   1. {main}() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/admin-ajax.php:0
+[12-Sep-2022 08:57:46 UTC] PHP   2. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/admin-ajax.php:22
+[12-Sep-2022 08:57:46 UTC] PHP   3. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-load.php:50
+[12-Sep-2022 08:57:46 UTC] PHP   4. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-config.php:77
+[12-Sep-2022 08:57:46 UTC] PHP   5. include_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-settings.php:428
+[12-Sep-2022 08:57:48 UTC] PHP Warning:  include(01-basic/index.php): failed to open stream: No such file or directory in /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-content/plugins/gutenberg-examples-zip/index.php on line 15
+[12-Sep-2022 08:57:48 UTC] PHP Stack trace:
+[12-Sep-2022 08:57:48 UTC] PHP   1. {main}() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/index.php:0
+[12-Sep-2022 08:57:48 UTC] PHP   2. require() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/index.php:17
+[12-Sep-2022 08:57:48 UTC] PHP   3. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-blog-header.php:13
+[12-Sep-2022 08:57:48 UTC] PHP   4. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-load.php:50
+[12-Sep-2022 08:57:48 UTC] PHP   5. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-config.php:77
+[12-Sep-2022 08:57:48 UTC] PHP   6. include_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-settings.php:428
+[12-Sep-2022 08:57:48 UTC] PHP Warning:  include(): Failed opening '01-basic/index.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-content/plugins/gutenberg-examples-zip/index.php on line 15
+[12-Sep-2022 08:57:48 UTC] PHP Stack trace:
+[12-Sep-2022 08:57:48 UTC] PHP   1. {main}() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/index.php:0
+[12-Sep-2022 08:57:48 UTC] PHP   2. require() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/index.php:17
+[12-Sep-2022 08:57:48 UTC] PHP   3. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-blog-header.php:13
+[12-Sep-2022 08:57:48 UTC] PHP   4. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-load.php:50
+[12-Sep-2022 08:57:48 UTC] PHP   5. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-config.php:77
+[12-Sep-2022 08:57:48 UTC] PHP   6. include_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-settings.php:428
+[12-Sep-2022 08:57:48 UTC] PHP Warning:  include(01-basic-esnext/index.php): failed to open stream: No such file or directory in /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-content/plugins/gutenberg-examples-zip/index.php on line 16
+[12-Sep-2022 08:57:48 UTC] PHP Stack trace:
+[12-Sep-2022 08:57:48 UTC] PHP   1. {main}() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/index.php:0
+[12-Sep-2022 08:57:48 UTC] PHP   2. require() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/index.php:17
+[12-Sep-2022 08:57:48 UTC] PHP   3. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-blog-header.php:13
+[12-Sep-2022 08:57:48 UTC] PHP   4. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-load.php:50
+[12-Sep-2022 08:57:48 UTC] PHP   5. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-config.php:77
+[12-Sep-2022 08:57:48 UTC] PHP   6. include_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-settings.php:428
+[12-Sep-2022 08:57:48 UTC] PHP Warning:  include(): Failed opening '01-basic-esnext/index.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-content/plugins/gutenberg-examples-zip/index.php on line 16
+[12-Sep-2022 08:57:48 UTC] PHP Stack trace:
+[12-Sep-2022 08:57:48 UTC] PHP   1. {main}() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/index.php:0
+[12-Sep-2022 08:57:48 UTC] PHP   2. require() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/index.php:17
+[12-Sep-2022 08:57:48 UTC] PHP   3. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-blog-header.php:13
+[12-Sep-2022 08:57:48 UTC] PHP   4. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-load.php:50
+[12-Sep-2022 08:57:48 UTC] PHP   5. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-config.php:77
+[12-Sep-2022 08:57:48 UTC] PHP   6. include_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-settings.php:428
+[12-Sep-2022 08:57:49 UTC] PHP Warning:  include(/home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-content/plugins/gutenberg-examples-zip/01-basic/index.php): failed to open stream: No such file or directory in /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-content/plugins/gutenberg-examples-zip/index.php on line 15
+[12-Sep-2022 08:57:49 UTC] PHP Stack trace:
+[12-Sep-2022 08:57:49 UTC] PHP   1. {main}() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/index.php:0
+[12-Sep-2022 08:57:49 UTC] PHP   2. require() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/index.php:17
+[12-Sep-2022 08:57:49 UTC] PHP   3. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-blog-header.php:13
+[12-Sep-2022 08:57:49 UTC] PHP   4. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-load.php:50
+[12-Sep-2022 08:57:49 UTC] PHP   5. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-config.php:77
+[12-Sep-2022 08:57:49 UTC] PHP   6. include_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-settings.php:428
+[12-Sep-2022 08:57:49 UTC] PHP Warning:  include(): Failed opening '01-basic/index.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-content/plugins/gutenberg-examples-zip/index.php on line 15
+[12-Sep-2022 08:57:49 UTC] PHP Stack trace:
+[12-Sep-2022 08:57:49 UTC] PHP   1. {main}() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/index.php:0
+[12-Sep-2022 08:57:49 UTC] PHP   2. require() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/index.php:17
+[12-Sep-2022 08:57:49 UTC] PHP   3. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-blog-header.php:13
+[12-Sep-2022 08:57:49 UTC] PHP   4. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-load.php:50
+[12-Sep-2022 08:57:49 UTC] PHP   5. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-config.php:77
+[12-Sep-2022 08:57:49 UTC] PHP   6. include_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-settings.php:428
+[12-Sep-2022 08:57:49 UTC] PHP Warning:  include(01-basic-esnext/index.php): failed to open stream: No such file or directory in /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-content/plugins/gutenberg-examples-zip/index.php on line 16
+[12-Sep-2022 08:57:49 UTC] PHP Stack trace:
+[12-Sep-2022 08:57:49 UTC] PHP   1. {main}() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/index.php:0
+[12-Sep-2022 08:57:49 UTC] PHP   2. require() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/index.php:17
+[12-Sep-2022 08:57:49 UTC] PHP   3. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-blog-header.php:13
+[12-Sep-2022 08:57:49 UTC] PHP   4. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-load.php:50
+[12-Sep-2022 08:57:49 UTC] PHP   5. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-config.php:77
+[12-Sep-2022 08:57:49 UTC] PHP   6. include_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-settings.php:428
+[12-Sep-2022 08:57:49 UTC] PHP Warning:  include(): Failed opening '01-basic-esnext/index.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-content/plugins/gutenberg-examples-zip/index.php on line 16
+[12-Sep-2022 08:57:49 UTC] PHP Stack trace:
+[12-Sep-2022 08:57:49 UTC] PHP   1. {main}() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/index.php:0
+[12-Sep-2022 08:57:49 UTC] PHP   2. require() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/index.php:17
+[12-Sep-2022 08:57:49 UTC] PHP   3. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-blog-header.php:13
+[12-Sep-2022 08:57:49 UTC] PHP   4. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-load.php:50
+[12-Sep-2022 08:57:49 UTC] PHP   5. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-config.php:77
+[12-Sep-2022 08:57:49 UTC] PHP   6. include_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-settings.php:428
+[12-Sep-2022 08:57:50 UTC] PHP Warning:  include(01-basic/index.php): failed to open stream: No such file or directory in /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-content/plugins/gutenberg-examples-zip/index.php on line 15
+[12-Sep-2022 08:57:50 UTC] PHP Stack trace:
+[12-Sep-2022 08:57:50 UTC] PHP   1. {main}() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/edit.php:0
+[12-Sep-2022 08:57:50 UTC] PHP   2. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/edit.php:10
+[12-Sep-2022 08:57:50 UTC] PHP   3. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/admin.php:34
+[12-Sep-2022 08:57:50 UTC] PHP   4. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-load.php:50
+[12-Sep-2022 08:57:50 UTC] PHP   5. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-config.php:77
+[12-Sep-2022 08:57:50 UTC] PHP   6. include_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-settings.php:428
+[12-Sep-2022 08:57:50 UTC] PHP Warning:  include(): Failed opening '01-basic/index.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-content/plugins/gutenberg-examples-zip/index.php on line 15
+[12-Sep-2022 08:57:50 UTC] PHP Stack trace:
+[12-Sep-2022 08:57:50 UTC] PHP   1. {main}() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/edit.php:0
+[12-Sep-2022 08:57:50 UTC] PHP   2. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/edit.php:10
+[12-Sep-2022 08:57:50 UTC] PHP   3. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/admin.php:34
+[12-Sep-2022 08:57:50 UTC] PHP   4. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-load.php:50
+[12-Sep-2022 08:57:50 UTC] PHP   5. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-config.php:77
+[12-Sep-2022 08:57:50 UTC] PHP   6. include_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-settings.php:428
+[12-Sep-2022 08:57:50 UTC] PHP Warning:  include(01-basic-esnext/index.php): failed to open stream: No such file or directory in /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-content/plugins/gutenberg-examples-zip/index.php on line 16
+[12-Sep-2022 08:57:50 UTC] PHP Stack trace:
+[12-Sep-2022 08:57:50 UTC] PHP   1. {main}() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/edit.php:0
+[12-Sep-2022 08:57:50 UTC] PHP   2. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/edit.php:10
+[12-Sep-2022 08:57:50 UTC] PHP   3. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/admin.php:34
+[12-Sep-2022 08:57:50 UTC] PHP   4. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-load.php:50
+[12-Sep-2022 08:57:50 UTC] PHP   5. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-config.php:77
+[12-Sep-2022 08:57:50 UTC] PHP   6. include_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-settings.php:428
+[12-Sep-2022 08:57:50 UTC] PHP Warning:  include(): Failed opening '01-basic-esnext/index.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-content/plugins/gutenberg-examples-zip/index.php on line 16
+[12-Sep-2022 08:57:50 UTC] PHP Stack trace:
+[12-Sep-2022 08:57:50 UTC] PHP   1. {main}() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/edit.php:0
+[12-Sep-2022 08:57:50 UTC] PHP   2. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/edit.php:10
+[12-Sep-2022 08:57:50 UTC] PHP   3. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/admin.php:34
+[12-Sep-2022 08:57:50 UTC] PHP   4. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-load.php:50
+[12-Sep-2022 08:57:50 UTC] PHP   5. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-config.php:77
+[12-Sep-2022 08:57:50 UTC] PHP   6. include_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-settings.php:428
+[12-Sep-2022 08:57:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-content/plugins/gutenberg-examples-zip/index.php:15) in /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/includes/misc.php on line 1381
+[12-Sep-2022 08:57:50 UTC] PHP Stack trace:
+[12-Sep-2022 08:57:50 UTC] PHP   1. {main}() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/edit.php:0
+[12-Sep-2022 08:57:50 UTC] PHP   2. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/edit.php:10
+[12-Sep-2022 08:57:50 UTC] PHP   3. do_action($hook_name = 'admin_init') /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/admin.php:175
+[12-Sep-2022 08:57:50 UTC] PHP   4. WP_Hook->do_action($args = [0 => '']) /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-includes/plugin.php:476
+[12-Sep-2022 08:57:50 UTC] PHP   5. WP_Hook->apply_filters($value = '', $args = [0 => '']) /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-includes/class-wp-hook.php:331
+[12-Sep-2022 08:57:50 UTC] PHP   6. wp_admin_headers('') /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-includes/class-wp-hook.php:307
+[12-Sep-2022 08:57:50 UTC] PHP   7. header($header = 'Referrer-Policy: strict-origin-when-cross-origin') /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/includes/misc.php:1381
+[12-Sep-2022 08:57:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-content/plugins/gutenberg-examples-zip/index.php:15) in /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-includes/functions.php on line 6878
+[12-Sep-2022 08:57:50 UTC] PHP Stack trace:
+[12-Sep-2022 08:57:50 UTC] PHP   1. {main}() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/edit.php:0
+[12-Sep-2022 08:57:50 UTC] PHP   2. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/edit.php:10
+[12-Sep-2022 08:57:50 UTC] PHP   3. do_action($hook_name = 'admin_init') /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/admin.php:175
+[12-Sep-2022 08:57:50 UTC] PHP   4. WP_Hook->do_action($args = [0 => '']) /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-includes/plugin.php:476
+[12-Sep-2022 08:57:50 UTC] PHP   5. WP_Hook->apply_filters($value = '', $args = [0 => '']) /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-includes/class-wp-hook.php:331
+[12-Sep-2022 08:57:50 UTC] PHP   6. send_frame_options_header() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-includes/class-wp-hook.php:305
+[12-Sep-2022 08:57:50 UTC] PHP   7. header($header = 'X-Frame-Options: SAMEORIGIN') /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-includes/functions.php:6878
+[12-Sep-2022 08:57:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-content/plugins/gutenberg-examples-zip/index.php:15) in /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/admin-header.php on line 9
+[12-Sep-2022 08:57:50 UTC] PHP Stack trace:
+[12-Sep-2022 08:57:50 UTC] PHP   1. {main}() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/edit.php:0
+[12-Sep-2022 08:57:50 UTC] PHP   2. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/edit.php:397
+[12-Sep-2022 08:57:50 UTC] PHP   3. header($header = 'Content-Type: text/html; charset=UTF-8') /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/admin-header.php:9
+[12-Sep-2022 08:57:51 UTC] PHP Warning:  include(/home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-content/plugins/gutenberg-examples-zip/01-basic/index.php): failed to open stream: No such file or directory in /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-content/plugins/gutenberg-examples-zip/index.php on line 15
+[12-Sep-2022 08:57:51 UTC] PHP Stack trace:
+[12-Sep-2022 08:57:51 UTC] PHP   1. {main}() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/admin-ajax.php:0
+[12-Sep-2022 08:57:51 UTC] PHP   2. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/admin-ajax.php:22
+[12-Sep-2022 08:57:51 UTC] PHP   3. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-load.php:50
+[12-Sep-2022 08:57:51 UTC] PHP   4. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-config.php:77
+[12-Sep-2022 08:57:51 UTC] PHP   5. include_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-settings.php:428
+[12-Sep-2022 08:57:51 UTC] PHP Warning:  include(): Failed opening '01-basic/index.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-content/plugins/gutenberg-examples-zip/index.php on line 15
+[12-Sep-2022 08:57:51 UTC] PHP Stack trace:
+[12-Sep-2022 08:57:51 UTC] PHP   1. {main}() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/admin-ajax.php:0
+[12-Sep-2022 08:57:51 UTC] PHP   2. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/admin-ajax.php:22
+[12-Sep-2022 08:57:51 UTC] PHP   3. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-load.php:50
+[12-Sep-2022 08:57:51 UTC] PHP   4. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-config.php:77
+[12-Sep-2022 08:57:51 UTC] PHP   5. include_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-settings.php:428
+[12-Sep-2022 08:57:51 UTC] PHP Warning:  include(01-basic-esnext/index.php): failed to open stream: No such file or directory in /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-content/plugins/gutenberg-examples-zip/index.php on line 16
+[12-Sep-2022 08:57:51 UTC] PHP Stack trace:
+[12-Sep-2022 08:57:51 UTC] PHP   1. {main}() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/admin-ajax.php:0
+[12-Sep-2022 08:57:51 UTC] PHP   2. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/admin-ajax.php:22
+[12-Sep-2022 08:57:51 UTC] PHP   3. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-load.php:50
+[12-Sep-2022 08:57:51 UTC] PHP   4. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-config.php:77
+[12-Sep-2022 08:57:51 UTC] PHP   5. include_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-settings.php:428
+[12-Sep-2022 08:57:51 UTC] PHP Warning:  include(): Failed opening '01-basic-esnext/index.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-content/plugins/gutenberg-examples-zip/index.php on line 16
+[12-Sep-2022 08:57:51 UTC] PHP Stack trace:
+[12-Sep-2022 08:57:51 UTC] PHP   1. {main}() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/admin-ajax.php:0
+[12-Sep-2022 08:57:51 UTC] PHP   2. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/admin-ajax.php:22
+[12-Sep-2022 08:57:51 UTC] PHP   3. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-load.php:50
+[12-Sep-2022 08:57:51 UTC] PHP   4. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-config.php:77
+[12-Sep-2022 08:57:51 UTC] PHP   5. include_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-settings.php:428
+[12-Sep-2022 08:57:53 UTC] PHP Warning:  include(01-basic/index.php): failed to open stream: No such file or directory in /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-content/plugins/gutenberg-examples-zip/index.php on line 15
+[12-Sep-2022 08:57:53 UTC] PHP Stack trace:
+[12-Sep-2022 08:57:53 UTC] PHP   1. {main}() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/index.php:0
+[12-Sep-2022 08:57:53 UTC] PHP   2. require() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/index.php:17
+[12-Sep-2022 08:57:53 UTC] PHP   3. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-blog-header.php:13
+[12-Sep-2022 08:57:53 UTC] PHP   4. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-load.php:50
+[12-Sep-2022 08:57:53 UTC] PHP   5. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-config.php:77
+[12-Sep-2022 08:57:53 UTC] PHP   6. include_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-settings.php:428
+[12-Sep-2022 08:57:53 UTC] PHP Warning:  include(): Failed opening '01-basic/index.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-content/plugins/gutenberg-examples-zip/index.php on line 15
+[12-Sep-2022 08:57:53 UTC] PHP Stack trace:
+[12-Sep-2022 08:57:53 UTC] PHP   1. {main}() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/index.php:0
+[12-Sep-2022 08:57:53 UTC] PHP   2. require() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/index.php:17
+[12-Sep-2022 08:57:53 UTC] PHP   3. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-blog-header.php:13
+[12-Sep-2022 08:57:53 UTC] PHP   4. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-load.php:50
+[12-Sep-2022 08:57:53 UTC] PHP   5. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-config.php:77
+[12-Sep-2022 08:57:53 UTC] PHP   6. include_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-settings.php:428
+[12-Sep-2022 08:57:53 UTC] PHP Warning:  include(01-basic-esnext/index.php): failed to open stream: No such file or directory in /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-content/plugins/gutenberg-examples-zip/index.php on line 16
+[12-Sep-2022 08:57:53 UTC] PHP Stack trace:
+[12-Sep-2022 08:57:53 UTC] PHP   1. {main}() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/index.php:0
+[12-Sep-2022 08:57:53 UTC] PHP   2. require() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/index.php:17
+[12-Sep-2022 08:57:53 UTC] PHP   3. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-blog-header.php:13
+[12-Sep-2022 08:57:53 UTC] PHP   4. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-load.php:50
+[12-Sep-2022 08:57:53 UTC] PHP   5. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-config.php:77
+[12-Sep-2022 08:57:53 UTC] PHP   6. include_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-settings.php:428
+[12-Sep-2022 08:57:53 UTC] PHP Warning:  include(): Failed opening '01-basic-esnext/index.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-content/plugins/gutenberg-examples-zip/index.php on line 16
+[12-Sep-2022 08:57:53 UTC] PHP Stack trace:
+[12-Sep-2022 08:57:53 UTC] PHP   1. {main}() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/index.php:0
+[12-Sep-2022 08:57:53 UTC] PHP   2. require() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/index.php:17
+[12-Sep-2022 08:57:53 UTC] PHP   3. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-blog-header.php:13
+[12-Sep-2022 08:57:53 UTC] PHP   4. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-load.php:50
+[12-Sep-2022 08:57:53 UTC] PHP   5. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-config.php:77
+[12-Sep-2022 08:57:53 UTC] PHP   6. include_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-settings.php:428
+[12-Sep-2022 08:57:53 UTC] PHP Warning:  include(/home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-content/plugins/gutenberg-examples-zip/01-basic/index.php): failed to open stream: No such file or directory in /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-content/plugins/gutenberg-examples-zip/index.php on line 15
+[12-Sep-2022 08:57:53 UTC] PHP Stack trace:
+[12-Sep-2022 08:57:53 UTC] PHP   1. {main}() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/index.php:0
+[12-Sep-2022 08:57:53 UTC] PHP   2. require() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/index.php:17
+[12-Sep-2022 08:57:53 UTC] PHP   3. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-blog-header.php:13
+[12-Sep-2022 08:57:53 UTC] PHP   4. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-load.php:50
+[12-Sep-2022 08:57:53 UTC] PHP   5. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-config.php:77
+[12-Sep-2022 08:57:53 UTC] PHP   6. include_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-settings.php:428
+[12-Sep-2022 08:57:53 UTC] PHP Warning:  include(): Failed opening '01-basic/index.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-content/plugins/gutenberg-examples-zip/index.php on line 15
+[12-Sep-2022 08:57:53 UTC] PHP Stack trace:
+[12-Sep-2022 08:57:53 UTC] PHP   1. {main}() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/index.php:0
+[12-Sep-2022 08:57:53 UTC] PHP   2. require() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/index.php:17
+[12-Sep-2022 08:57:53 UTC] PHP   3. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-blog-header.php:13
+[12-Sep-2022 08:57:53 UTC] PHP   4. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-load.php:50
+[12-Sep-2022 08:57:53 UTC] PHP   5. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-config.php:77
+[12-Sep-2022 08:57:53 UTC] PHP   6. include_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-settings.php:428
+[12-Sep-2022 08:57:53 UTC] PHP Warning:  include(01-basic-esnext/index.php): failed to open stream: No such file or directory in /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-content/plugins/gutenberg-examples-zip/index.php on line 16
+[12-Sep-2022 08:57:53 UTC] PHP Stack trace:
+[12-Sep-2022 08:57:53 UTC] PHP   1. {main}() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/index.php:0
+[12-Sep-2022 08:57:53 UTC] PHP   2. require() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/index.php:17
+[12-Sep-2022 08:57:53 UTC] PHP   3. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-blog-header.php:13
+[12-Sep-2022 08:57:53 UTC] PHP   4. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-load.php:50
+[12-Sep-2022 08:57:53 UTC] PHP   5. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-config.php:77
+[12-Sep-2022 08:57:53 UTC] PHP   6. include_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-settings.php:428
+[12-Sep-2022 08:57:53 UTC] PHP Warning:  include(): Failed opening '01-basic-esnext/index.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-content/plugins/gutenberg-examples-zip/index.php on line 16
+[12-Sep-2022 08:57:53 UTC] PHP Stack trace:
+[12-Sep-2022 08:57:53 UTC] PHP   1. {main}() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/index.php:0
+[12-Sep-2022 08:57:53 UTC] PHP   2. require() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/index.php:17
+[12-Sep-2022 08:57:53 UTC] PHP   3. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-blog-header.php:13
+[12-Sep-2022 08:57:53 UTC] PHP   4. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-load.php:50
+[12-Sep-2022 08:57:53 UTC] PHP   5. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-config.php:77
+[12-Sep-2022 08:57:53 UTC] PHP   6. include_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-settings.php:428
+[12-Sep-2022 08:59:52 UTC] PHP Warning:  include(01-basic-esnext/index.php): failed to open stream: No such file or directory in /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-content/plugins/Pluging-keke/index.php on line 16
+[12-Sep-2022 08:59:52 UTC] PHP Stack trace:
+[12-Sep-2022 08:59:52 UTC] PHP   1. {main}() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/plugins.php:0
+[12-Sep-2022 08:59:52 UTC] PHP   2. activate_plugin($plugin = 'Pluging-keke/index.php', $redirect = 'http://localhost:10033/wp-admin/plugins.php?error=true&plugin=Pluging-keke%2Findex.php', $network_wide = FALSE, $silent = *uninitialized*) /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/plugins.php:58
+[12-Sep-2022 08:59:52 UTC] PHP   3. plugin_sandbox_scrape($plugin = 'Pluging-keke/index.php') /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/includes/plugin.php:661
+[12-Sep-2022 08:59:52 UTC] PHP   4. include_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/includes/plugin.php:2313
+[12-Sep-2022 08:59:52 UTC] PHP Warning:  include(): Failed opening '01-basic-esnext/index.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-content/plugins/Pluging-keke/index.php on line 16
+[12-Sep-2022 08:59:52 UTC] PHP Stack trace:
+[12-Sep-2022 08:59:52 UTC] PHP   1. {main}() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/plugins.php:0
+[12-Sep-2022 08:59:52 UTC] PHP   2. activate_plugin($plugin = 'Pluging-keke/index.php', $redirect = 'http://localhost:10033/wp-admin/plugins.php?error=true&plugin=Pluging-keke%2Findex.php', $network_wide = FALSE, $silent = *uninitialized*) /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/plugins.php:58
+[12-Sep-2022 08:59:52 UTC] PHP   3. plugin_sandbox_scrape($plugin = 'Pluging-keke/index.php') /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/includes/plugin.php:661
+[12-Sep-2022 08:59:52 UTC] PHP   4. include_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/includes/plugin.php:2313
+[12-Sep-2022 08:59:52 UTC] PHP Warning:  include(01-basic-esnext/index.php): failed to open stream: No such file or directory in /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-content/plugins/Pluging-keke/index.php on line 16
+[12-Sep-2022 08:59:52 UTC] PHP Stack trace:
+[12-Sep-2022 08:59:52 UTC] PHP   1. {main}() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/plugins.php:0
+[12-Sep-2022 08:59:52 UTC] PHP   2. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/plugins.php:10
+[12-Sep-2022 08:59:52 UTC] PHP   3. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/admin.php:34
+[12-Sep-2022 08:59:52 UTC] PHP   4. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-load.php:50
+[12-Sep-2022 08:59:52 UTC] PHP   5. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-config.php:77
+[12-Sep-2022 08:59:52 UTC] PHP   6. include_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-settings.php:428
+[12-Sep-2022 08:59:52 UTC] PHP Warning:  include(): Failed opening '01-basic-esnext/index.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-content/plugins/Pluging-keke/index.php on line 16
+[12-Sep-2022 08:59:52 UTC] PHP Stack trace:
+[12-Sep-2022 08:59:52 UTC] PHP   1. {main}() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/plugins.php:0
+[12-Sep-2022 08:59:52 UTC] PHP   2. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/plugins.php:10
+[12-Sep-2022 08:59:52 UTC] PHP   3. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/admin.php:34
+[12-Sep-2022 08:59:52 UTC] PHP   4. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-load.php:50
+[12-Sep-2022 08:59:52 UTC] PHP   5. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-config.php:77
+[12-Sep-2022 08:59:52 UTC] PHP   6. include_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-settings.php:428
+[12-Sep-2022 08:59:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-content/plugins/Pluging-keke/index.php:16) in /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/includes/misc.php on line 1381
+[12-Sep-2022 08:59:53 UTC] PHP Stack trace:
+[12-Sep-2022 08:59:53 UTC] PHP   1. {main}() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/plugins.php:0
+[12-Sep-2022 08:59:53 UTC] PHP   2. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/plugins.php:10
+[12-Sep-2022 08:59:53 UTC] PHP   3. do_action($hook_name = 'admin_init') /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/admin.php:175
+[12-Sep-2022 08:59:53 UTC] PHP   4. WP_Hook->do_action($args = [0 => '']) /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-includes/plugin.php:476
+[12-Sep-2022 08:59:53 UTC] PHP   5. WP_Hook->apply_filters($value = '', $args = [0 => '']) /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-includes/class-wp-hook.php:331
+[12-Sep-2022 08:59:53 UTC] PHP   6. wp_admin_headers('') /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-includes/class-wp-hook.php:307
+[12-Sep-2022 08:59:53 UTC] PHP   7. header($header = 'Referrer-Policy: strict-origin-when-cross-origin') /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/includes/misc.php:1381
+[12-Sep-2022 08:59:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-content/plugins/Pluging-keke/index.php:16) in /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-includes/functions.php on line 6878
+[12-Sep-2022 08:59:53 UTC] PHP Stack trace:
+[12-Sep-2022 08:59:53 UTC] PHP   1. {main}() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/plugins.php:0
+[12-Sep-2022 08:59:53 UTC] PHP   2. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/plugins.php:10
+[12-Sep-2022 08:59:53 UTC] PHP   3. do_action($hook_name = 'admin_init') /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/admin.php:175
+[12-Sep-2022 08:59:53 UTC] PHP   4. WP_Hook->do_action($args = [0 => '']) /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-includes/plugin.php:476
+[12-Sep-2022 08:59:53 UTC] PHP   5. WP_Hook->apply_filters($value = '', $args = [0 => '']) /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-includes/class-wp-hook.php:331
+[12-Sep-2022 08:59:53 UTC] PHP   6. send_frame_options_header() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-includes/class-wp-hook.php:305
+[12-Sep-2022 08:59:53 UTC] PHP   7. header($header = 'X-Frame-Options: SAMEORIGIN') /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-includes/functions.php:6878
+[12-Sep-2022 08:59:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-content/plugins/Pluging-keke/index.php:16) in /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/admin-header.php on line 9
+[12-Sep-2022 08:59:53 UTC] PHP Stack trace:
+[12-Sep-2022 08:59:53 UTC] PHP   1. {main}() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/plugins.php:0
+[12-Sep-2022 08:59:53 UTC] PHP   2. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/plugins.php:605
+[12-Sep-2022 08:59:53 UTC] PHP   3. header($header = 'Content-Type: text/html; charset=UTF-8') /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/admin-header.php:9
+[12-Sep-2022 09:00:03 UTC] PHP Warning:  include(01-basic-esnext/index.php): failed to open stream: No such file or directory in /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-content/plugins/Pluging-keke/index.php on line 16
+[12-Sep-2022 09:00:03 UTC] PHP Stack trace:
+[12-Sep-2022 09:00:03 UTC] PHP   1. {main}() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/index.php:0
+[12-Sep-2022 09:00:03 UTC] PHP   2. require() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/index.php:17
+[12-Sep-2022 09:00:03 UTC] PHP   3. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-blog-header.php:13
+[12-Sep-2022 09:00:03 UTC] PHP   4. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-load.php:50
+[12-Sep-2022 09:00:03 UTC] PHP   5. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-config.php:77
+[12-Sep-2022 09:00:03 UTC] PHP   6. include_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-settings.php:428
+[12-Sep-2022 09:00:03 UTC] PHP Warning:  include(): Failed opening '01-basic-esnext/index.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-content/plugins/Pluging-keke/index.php on line 16
+[12-Sep-2022 09:00:03 UTC] PHP Stack trace:
+[12-Sep-2022 09:00:03 UTC] PHP   1. {main}() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/index.php:0
+[12-Sep-2022 09:00:03 UTC] PHP   2. require() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/index.php:17
+[12-Sep-2022 09:00:03 UTC] PHP   3. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-blog-header.php:13
+[12-Sep-2022 09:00:03 UTC] PHP   4. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-load.php:50
+[12-Sep-2022 09:00:03 UTC] PHP   5. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-config.php:77
+[12-Sep-2022 09:00:03 UTC] PHP   6. include_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-settings.php:428
+[12-Sep-2022 09:00:13 UTC] PHP Warning:  include(01-basic-esnext/index.php): failed to open stream: No such file or directory in /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-content/plugins/Pluging-keke/index.php on line 16
+[12-Sep-2022 09:00:13 UTC] PHP Stack trace:
+[12-Sep-2022 09:00:13 UTC] PHP   1. {main}() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/about.php:0
+[12-Sep-2022 09:00:13 UTC] PHP   2. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/about.php:10
+[12-Sep-2022 09:00:13 UTC] PHP   3. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/admin.php:34
+[12-Sep-2022 09:00:13 UTC] PHP   4. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-load.php:50
+[12-Sep-2022 09:00:13 UTC] PHP   5. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-config.php:77
+[12-Sep-2022 09:00:13 UTC] PHP   6. include_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-settings.php:428
+[12-Sep-2022 09:00:13 UTC] PHP Warning:  include(): Failed opening '01-basic-esnext/index.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-content/plugins/Pluging-keke/index.php on line 16
+[12-Sep-2022 09:00:13 UTC] PHP Stack trace:
+[12-Sep-2022 09:00:13 UTC] PHP   1. {main}() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/about.php:0
+[12-Sep-2022 09:00:13 UTC] PHP   2. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/about.php:10
+[12-Sep-2022 09:00:13 UTC] PHP   3. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/admin.php:34
+[12-Sep-2022 09:00:13 UTC] PHP   4. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-load.php:50
+[12-Sep-2022 09:00:13 UTC] PHP   5. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-config.php:77
+[12-Sep-2022 09:00:13 UTC] PHP   6. include_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-settings.php:428
+[12-Sep-2022 09:00:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-content/plugins/Pluging-keke/index.php:16) in /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/includes/misc.php on line 1381
+[12-Sep-2022 09:00:13 UTC] PHP Stack trace:
+[12-Sep-2022 09:00:13 UTC] PHP   1. {main}() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/about.php:0
+[12-Sep-2022 09:00:13 UTC] PHP   2. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/about.php:10
+[12-Sep-2022 09:00:13 UTC] PHP   3. do_action($hook_name = 'admin_init') /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/admin.php:175
+[12-Sep-2022 09:00:13 UTC] PHP   4. WP_Hook->do_action($args = [0 => '']) /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-includes/plugin.php:476
+[12-Sep-2022 09:00:13 UTC] PHP   5. WP_Hook->apply_filters($value = '', $args = [0 => '']) /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-includes/class-wp-hook.php:331
+[12-Sep-2022 09:00:13 UTC] PHP   6. wp_admin_headers('') /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-includes/class-wp-hook.php:307
+[12-Sep-2022 09:00:13 UTC] PHP   7. header($header = 'Referrer-Policy: strict-origin-when-cross-origin') /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/includes/misc.php:1381
+[12-Sep-2022 09:00:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-content/plugins/Pluging-keke/index.php:16) in /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-includes/functions.php on line 6878
+[12-Sep-2022 09:00:13 UTC] PHP Stack trace:
+[12-Sep-2022 09:00:13 UTC] PHP   1. {main}() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/about.php:0
+[12-Sep-2022 09:00:13 UTC] PHP   2. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/about.php:10
+[12-Sep-2022 09:00:13 UTC] PHP   3. do_action($hook_name = 'admin_init') /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/admin.php:175
+[12-Sep-2022 09:00:13 UTC] PHP   4. WP_Hook->do_action($args = [0 => '']) /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-includes/plugin.php:476
+[12-Sep-2022 09:00:13 UTC] PHP   5. WP_Hook->apply_filters($value = '', $args = [0 => '']) /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-includes/class-wp-hook.php:331
+[12-Sep-2022 09:00:13 UTC] PHP   6. send_frame_options_header() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-includes/class-wp-hook.php:305
+[12-Sep-2022 09:00:13 UTC] PHP   7. header($header = 'X-Frame-Options: SAMEORIGIN') /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-includes/functions.php:6878
+[12-Sep-2022 09:00:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-content/plugins/Pluging-keke/index.php:16) in /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/admin-header.php on line 9
+[12-Sep-2022 09:00:13 UTC] PHP Stack trace:
+[12-Sep-2022 09:00:13 UTC] PHP   1. {main}() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/about.php:0
+[12-Sep-2022 09:00:13 UTC] PHP   2. require_once() /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/about.php:18
+[12-Sep-2022 09:00:13 UTC] PHP   3. header($header = 'Content-Type: text/html; charset=UTF-8') /home/stuckens/Local Sites/gutenberg-block-eval/app/public/wp-admin/admin-header.php:9
